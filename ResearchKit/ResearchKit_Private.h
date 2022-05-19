@@ -103,3 +103,4 @@
 
 // For custom steps
 #import <ResearchKit/ORKCustomStepView.h>
+#import <ResearchKit/ORKHTMLPDFPageRenderer.h>
